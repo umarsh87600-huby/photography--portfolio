@@ -1,0 +1,6 @@
+{
+  "name": "AURA — 3D Spatial Photography Gallery",
+  "description": "An immersive 3D spatial photography portfolio featuring cinematic camera choreographies, interactive exhibition pavilion, lens focal transitions, and high-fidelity archival showcases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
